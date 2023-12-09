@@ -154,3 +154,10 @@ dev:
 # [fit] **for attending!**
 Try Okteto for free at: [okteto.com](https://okteto.com)
 
+---
+
+## **Feedback + Giveaway!**
+
+![inline original 150%](feedback.png)
+
+---
