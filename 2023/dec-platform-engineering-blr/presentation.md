@@ -33,7 +33,7 @@ It is key in defining the **developer experience** for your organization.
 
 # Current Cloud Native DevX
 
-![inline original 65%]()
+![inline original 65%](todolistapp.png)
 
 ---
 
@@ -44,7 +44,7 @@ It is key in defining the **developer experience** for your organization.
 * cloud services
 * devops tools like terraform, helm, etc
 
-![right fit 45%]()
+![right fit 45%](todolistapp.png)
 
 ---
 
@@ -72,7 +72,7 @@ It is key in defining the **developer experience** for your organization.
 
 ## **Try it out!**
 
-![inline original 150%]()
+![inline original 150%](frame.png)
 
 ---
 
